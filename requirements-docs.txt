@@ -1,0 +1,4 @@
+console-menu==0.6.0
+pathtools==0.1.2
+six==1.14.0
+watchdog==0.10.2
